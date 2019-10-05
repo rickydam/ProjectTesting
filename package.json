@@ -7,6 +7,18 @@
     "start": "webpack app.js --mode development --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "js",
+    "javascript",
+    "testing",
+    "jest",
+    "unit",
+    "tests",
+    "integration",
+    "tests",
+    "e2e",
+    "tests"
+  ],
   "author": "Ricky Dam",
   "license": "ISC",
   "devDependencies": {
